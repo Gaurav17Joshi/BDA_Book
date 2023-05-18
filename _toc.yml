@@ -3,8 +3,14 @@
 
 format: jb-book
 root: intro.md
-chapters:
-- file: notebooks/markdown.md
-- file: notebooks/notebooks.ipynb
-- file: notebooks/markdown-notebooks.md
-- file: notebooks/mymarkdownfile.md
+parts:
+  - caption: Probability and Bayes Rule
+    chapters:
+    - file: notebooks/Probability_and_Bayes_Rule.ipynb
+    - file: notebooks/Probability_and_Bayes_Rule_Exercises.ipynb
+  - caption: Templates
+    chapters:
+    - file: notebooks/markdown.md
+    - file: notebooks/notebooks.ipynb
+    - file: notebooks/markdown-notebooks.md
+    - file: notebooks/mymarkdownfile.md
