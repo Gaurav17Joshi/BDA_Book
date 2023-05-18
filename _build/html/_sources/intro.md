@@ -1,9 +1,8 @@
-# Welcome to your Jupyter Book
+# Bayesian Data Analysis
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This is a book on my notes on Bayesian Data Analysis, where I will write down the core principles of this
+important domain, and work out some problems using some of the many probabilistic programming pakages available in python.
+
 
 Check out the content pages bundled with this sample book to see more.
 
